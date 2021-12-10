@@ -5,7 +5,6 @@
 #include "register.h"
 #include "ui_register.h"
 #include "luz.h"
-#include "ui_gps.h"
 
 LOGIN::LOGIN(QWidget *parent ) :
     QWidget(parent),
